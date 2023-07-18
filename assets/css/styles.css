@@ -41,7 +41,7 @@ a {
 
 /* =============Header================ */
 header {
-    background-color: rebeccapurple;
+    background: #FFFCF4;
 }
 
 .header.fixed {
@@ -91,4 +91,8 @@ header {
 
 .header .sign-up-btn {
     min-width: 144px;
+}
+
+.header .action {
+    margin-left: 49px;
 }
